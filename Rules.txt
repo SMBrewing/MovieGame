@@ -1,0 +1,20 @@
+The movie game
+
+You buy movie series, add modifiers to your movies and others, then release them.
+
+You do not make money until you release the movie.
+
+You buy rights to the series
+You buy the director
+You buy the cast
+You buy the writers
+You buy the music
+You buy the Special Effects
+You buy the editors
+You buy sets
+
+Movie Series
+Vacuum the Cat Horror
+Revenege of the Vacuum
+
+Horse Hurricane
